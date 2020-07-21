@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestAssuredDemo]">
+  <test thread-count="5" name="TestDemo(failed)">
+    <groups>
+      <run>
+        <include name="demo"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.qa.restDemo.Employee">
+        <methods>
+          <include name="createUser"/>
+        </methods>
+      </class> <!-- com.qa.restDemo.Employee -->
+    </classes>
+  </test> <!-- TestDemo(failed) -->
+</suite> <!-- Failed suite [RestAssuredDemo] -->

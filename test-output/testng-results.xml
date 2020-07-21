@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="22" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38159" started-at="2020-04-20T10:55:01Z" finished-at="2020-04-20T10:55:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38159" started-at="2020-04-20T10:55:01Z" finished-at="2020-04-20T10:55:39Z">
+      <class name="com.students.tests.WalmartAPITest">
+        <test-method status="PASS" signature="getAllTheSalePrice()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getAllTheSalePrice" duration-ms="4144" started-at="2020-04-20T10:55:01Z" finished-at="2020-04-20T10:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllTheSalePrice -->
+        <test-method status="PASS" signature="getAlltheSalePrice()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getAlltheSalePrice" duration-ms="1927" started-at="2020-04-20T10:55:05Z" finished-at="2020-04-20T10:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlltheSalePrice -->
+        <test-method status="PASS" signature="getExtract()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getExtract" duration-ms="2177" started-at="2020-04-20T10:55:07Z" finished-at="2020-04-20T10:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExtract -->
+        <test-method status="PASS" signature="getExtractAllName()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getExtractAllName" duration-ms="1616" started-at="2020-04-20T10:55:09Z" finished-at="2020-04-20T10:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExtractAllName -->
+        <test-method status="PASS" signature="getTheAllDetailsWithFilter()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheAllDetailsWithFilter" duration-ms="1537" started-at="2020-04-20T10:55:11Z" finished-at="2020-04-20T10:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheAllDetailsWithFilter -->
+        <test-method status="PASS" signature="getTheGiftOptionsFromXMLPath()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheGiftOptionsFromXMLPath" duration-ms="1515" started-at="2020-04-20T10:55:13Z" finished-at="2020-04-20T10:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheGiftOptionsFromXMLPath -->
+        <test-method status="PASS" signature="getTheITem()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheITem" duration-ms="1897" started-at="2020-04-20T10:55:14Z" finished-at="2020-04-20T10:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheITem -->
+        <test-method status="PASS" signature="getTheITemAndVerify()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheITemAndVerify" duration-ms="1908" started-at="2020-04-20T10:55:16Z" finished-at="2020-04-20T10:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheITemAndVerify -->
+        <test-method status="PASS" signature="getTheItemsForTheSpecific()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheItemsForTheSpecific" duration-ms="1523" started-at="2020-04-20T10:55:18Z" finished-at="2020-04-20T10:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheItemsForTheSpecific -->
+        <test-method status="PASS" signature="getTheItemsFromList()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheItemsFromList" duration-ms="1564" started-at="2020-04-20T10:55:19Z" finished-at="2020-04-20T10:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheItemsFromList -->
+        <test-method status="PASS" signature="getTheMapwhereNameStartsWithRef()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheMapwhereNameStartsWithRef" duration-ms="1585" started-at="2020-04-20T10:55:21Z" finished-at="2020-04-20T10:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheMapwhereNameStartsWithRef -->
+        <test-method status="PASS" signature="getTheNumItems()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheNumItems" duration-ms="1858" started-at="2020-04-20T10:55:23Z" finished-at="2020-04-20T10:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheNumItems -->
+        <test-method status="PASS" signature="getTheResponseAndStoreToHashMap()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheResponseAndStoreToHashMap" duration-ms="1551" started-at="2020-04-20T10:55:25Z" finished-at="2020-04-20T10:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheResponseAndStoreToHashMap -->
+        <test-method status="PASS" signature="getTheResponseAndValidate()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheResponseAndValidate" duration-ms="1561" started-at="2020-04-20T10:55:26Z" finished-at="2020-04-20T10:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheResponseAndValidate -->
+        <test-method status="PASS" signature="getTheResponseAndValidate1()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheResponseAndValidate1" duration-ms="1519" started-at="2020-04-20T10:55:28Z" finished-at="2020-04-20T10:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheResponseAndValidate1 -->
+        <test-method status="PASS" signature="getTheResponseInXML()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheResponseInXML" duration-ms="1636" started-at="2020-04-20T10:55:29Z" finished-at="2020-04-20T10:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheResponseInXML -->
+        <test-method status="PASS" signature="getTheSalePriceWhereNameEndsWithed()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheSalePriceWhereNameEndsWithed" duration-ms="1569" started-at="2020-04-20T10:55:31Z" finished-at="2020-04-20T10:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheSalePriceWhereNameEndsWithed -->
+        <test-method status="PASS" signature="getTheSizeOfItem()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheSizeOfItem" duration-ms="1669" started-at="2020-04-20T10:55:32Z" finished-at="2020-04-20T10:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheSizeOfItem -->
+        <test-method status="PASS" signature="getTheSizeOfTheArray()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheSizeOfTheArray" duration-ms="1747" started-at="2020-04-20T10:55:34Z" finished-at="2020-04-20T10:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheSizeOfTheArray -->
+        <test-method status="PASS" signature="getTheproductNameFromItems()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getTheproductNameFromItems" duration-ms="1809" started-at="2020-04-20T10:55:36Z" finished-at="2020-04-20T10:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheproductNameFromItems -->
+        <test-method status="FAIL" signature="getallTheNameFromTheArray()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="getallTheNameFromTheArray" duration-ms="1614" started-at="2020-04-20T10:55:38Z" finished-at="2020-04-20T10:55:39Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at com.students.tests.WalmartAPITest.getallTheNameFromTheArray(WalmartAPITest.java:222)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallTheNameFromTheArray -->
+        <test-method status="PASS" signature="testdd()[pri:0, instance:com.students.tests.WalmartAPITest@5bfa9431]" name="testdd" duration-ms="1" started-at="2020-04-20T10:55:39Z" finished-at="2020-04-20T10:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdd -->
+      </class> <!-- com.students.tests.WalmartAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

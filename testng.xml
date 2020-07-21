@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.api.test.GetApiNoBDD"/>
+      <class name="com.api.test.POSTCallNoBDD"/>
+      <class name="com.booking.api.test.BookingAPITest"/>
+      <class name="com.api.test.PUTAPICall"/>
+      <class name="com.booking.api.test.FinalPayload"/>
+      <class name="com.api.test.GetUserAPISchemaTest"/>
+      <class name="com.api.test.DELETECallAPI"/>
+      <class name="com.api.test.GetTokenPOJO"/>
+      <class name="com.api.test.POSTCallWithFile"/>
+      <class name="com.qa.httpclientsAPItests.CreateUserPOSTAPITest"/>
+      <class name="com.api.test.POSTCallWithoutBDD"/>
+      <class name="com.booking.api.test.StudentAPITestNoSeroilization"/>
+      <class name="com.api.test.GETCallApi"/>
+      <class name="com.qa.httpclientsAPItests.GetUserAPITest"/>
+      <class name="com.booking.api.test.StudentAPITestWithSerilization"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

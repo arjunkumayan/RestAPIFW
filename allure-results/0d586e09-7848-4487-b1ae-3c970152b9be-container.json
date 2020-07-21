@@ -1,0 +1,1 @@
+{"uuid":"0d586e09-7848-4487-b1ae-3c970152b9be","name":"RestAssuredDemo","children":["dfa0e35f-1c56-405b-899a-c9e6e2230d60"],"befores":[{"name":"configure","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1586776360001,"stop":1586776360315}],"afters":[],"links":[],"start":1586776359982,"stop":1586776362749}
