@@ -1,0 +1,1 @@
+{"uuid":"1af2f406-6906-42e8-8a8d-f86ef8da7e61","name":"com.walmart.jsonpath.SearchXmlPath","children":["784eaa05-374d-411c-af49-fb7d02891b78"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1596991074250,"stop":1596991074577}],"afters":[],"links":[],"start":1596991074234,"stop":1596991077717}
